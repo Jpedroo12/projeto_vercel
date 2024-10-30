@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mingzat&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+h1{
+    font-family: Mingzat;
+    color: white;
+    font-size: 30px;
+    text-decoration-color: black;
+}
+.dev{
+    font-family: Mingzat;
+    color: white;
+    font-size: 25px;
+    margin-top: -5px;
+}
+.git_hub{
+    font-family: Lado;
+    color: rgb(255, 255, 255);
+    margin-left: -15px;
+    margin-top: -20px;
+    font-size: 18px; 
+}
+.gmail{
+    font-family: Lado;
+    color: rgb(255, 255, 255);
+    margin-left: 130px;
+    margin-top: -20px;
+    font-size: 18px;
+}
+h3{
+    font-family: Lado;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: -28px;
+    font-size: 18px;
+}
+h4{
+    font-family: Mingzat;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    border-radius: 20px;
+    width: 150px;
+    padding: 5px;
+    background-color: #7d5dff;
+}
+h5{
+    font-family: Mingzat;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+p{
+    font-family: Mingzat;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.name{
+    top: 0;
+    margin-bottom: 0;
+}
+.tel{
+    margin-top: -20px;
+    margin-left: 15px;
+    font-size:18px;
+    font-family: Lado;
+    color: rgb(255, 255, 255);
+}
